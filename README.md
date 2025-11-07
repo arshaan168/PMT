@@ -1,4 +1,4 @@
-# JIRA Project Management Platform
+# PMT Project Management Platform
 
 A modern, full-stack project management application built with MERN stack.
 
@@ -179,3 +179,4 @@ If you encounter any issues:
 4. Ensure MongoDB is running and accessible
 
 For additional help, please open an issue in the repository.
+
